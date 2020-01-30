@@ -1,0 +1,246 @@
+{
+    "photos": {
+        "listing1Photo": "listing1.png",
+        "listing2Photo": "listing2.png",
+        "listing3Photo": "listing3.png",
+        "listing4Photo": "listing4.png",
+        "listing5Photo": "listing5.png",
+        "listing6Photo": "listing6.png",
+        "listing7Photo": "listing7.png",
+        "listing8Photo": "listing8.png",
+        "listing9Photo": "listing9.png",
+        "listing10Photo": "listing10.png",
+        "listing11Photo": "listing11.png",
+        "listing12Photo": "listing12.png",
+        "listing13Photo": "listing13.png",
+        "listing14Photo": "listing14.png",
+        "listing15Photo": "listing15.png",
+        "listing16Photo": "listing16.png"
+    },
+    "colors": {
+        "black": "#000000",
+        "lightBlack": "#484848",
+        "white": "#ffffff",
+        "green01": "#008388",
+        "green02": "#02656b",
+        "darkOrange": "#d93900",
+        "lightGray": "#d8d8d8",
+        "pink": "#fc4c54",
+        "gray01": "#f3f3f3",
+        "gray02": "#919191",
+        "gray03": "#b3b3b3",
+        "gray04": "#484848",
+        "gray05": "#dadada",
+        "gray06": "#ebebeb",
+        "gray07": "#f2f2f2",
+        "brown01": "#ad8763",
+        "brown02": "#7d4918",
+        "blue": "#4995cd"
+    },
+    "categories": [
+        {
+            "name": "Homes",
+            "photo": "homesCategory.png"
+        },
+        {
+            "name": "Experiences",
+            "photo": "experiencesCategory.png"
+        },
+        {
+            "name": "Restaurants",
+            "photo": "restaurantsCategory.png"
+        }
+    ],
+    "experiences": {
+        "title": "Experiences",
+        "boldTitle": false,
+        "showAddToFav": true,
+        "listings": [
+            {
+                "id": 1,
+                "photo": "listing1Photo",
+                "type": "BOAT RIDE",
+                "title": "Sail past Japan's largest port with a certified skipper",
+                "location": "Tokyo, Japan",
+                "price": 60,
+                "priceType": "per person",
+                "stars": 29,
+                "color": "gray04"
+            },
+            {
+                "id": 2,
+                "photo": "listing2Photo",
+                "type": "CHEESE TASTING",
+                "title": "Funny cheesemonger takes you on a Tour de Fromage",
+                "location": "Paris, France",
+                "price": 70,
+                "priceType": "per person",
+                "stars": 4,
+                "color": "darkOrange"
+            },
+            {
+                "id": 3,
+                "photo": "listing3Photo",
+                "type": "BIKE RIDE",
+                "title": "Cycling, 'KFC' & Drinking for your Seoul",
+                "location": "Seoul, South Korea",
+                "price": 47,
+                "priceType": "per person",
+                "stars": 30,
+                "color": "black"
+            },
+            {
+                "id": 4,
+                "photo": "listing4Photo",
+                "type": "BIKE RIDE",
+                "title": "Cycle through side streets with a local",
+                "location": "Amsterdam, Netherlands",
+                "price": 57,
+                "priceType": "per person",
+                "stars": 70,
+                "color": "brown01"
+            },
+            {
+                "id": 5,
+                "photo": "listing5Photo",
+                "type": "SURFING",
+                "title": "Surf Bondi's waves, then eat & drink like a local",
+                "location": "Sydney, Australia",
+                "price": 61,
+                "priceType": "per person",
+                "stars": 66,
+                "color": "blue"
+            },
+            {
+                "id": 6,
+                "photo": "listing6Photo",
+                "type": "DRAWING CLASS",
+                "title": "A drawing/walking tour in Montmartre",
+                "location": "Paris, France",
+                "price": 55,
+                "priceType": "per person",
+                "stars": 15,
+                "color": "brown02"
+            }
+        ]
+    },
+    "homes": {
+        "title": "Homes",
+        "boldTitle": false,
+        "showAddToFav": true,
+        "listings": [
+            {
+                "id": 7,
+                "photo": "listing7Photo",
+                "type": "ENTIRE HOUSE - 1 BED",
+                "title": "BALIAN TREEHOUSE with beautiful pool",
+                "location": "Bali, Indonesia",
+                "price": 72,
+                "priceType": "per night",
+                "stars": 101,
+                "color": "green01"
+            },
+            {
+                "id": 8,
+                "photo": "listing8Photo",
+                "type": "ENTIRE VILLA - 3 BEDS",
+                "title": "Casa de Rio - Beach and Mountains",
+                "location": "Secarias, Portugal",
+                "price": 69,
+                "priceType": "per night",
+                "stars": 119,
+                "color": "brown01"
+            },
+            {
+                "id": 9,
+                "photo": "listing9Photo",
+                "type": "ENTIRE HOUSE - 1 BED",
+                "title": "Cozy A-Frame Cabin in the Redwoods",
+                "location": "Cazadero, United States",
+                "price": 152,
+                "priceType": "per night",
+                "stars": 320,
+                "color": "darkOrange"
+            },
+            {
+                "id": 10,
+                "photo": "listing10Photo",
+                "type": "ENTIRE GUESTHOUSE - 1 BED",
+                "title": "1880s Carriage House in Curtis Park",
+                "location": "Denver, United States",
+                "price": 116,
+                "priceType": "per night",
+                "stars": 300,
+                "color": "gray04"
+            },
+            {
+                "id": 11,
+                "photo": "listing11Photo",
+                "type": "ENTIRE BOAT - 2 BEDS",
+                "title": "A Pirate's Life for Me Houseboar!",
+                "location": "Charleston, United States",
+                "price": 182,
+                "priceType": "per night",
+                "stars": 132,
+                "color": "green01"
+            }
+        ]
+    },
+    "popular": {
+        "title": "Popular Reservations",
+        "boldTitle": true,
+        "showAddToFav": false,
+        "listings": [
+            {
+                "id": 12,
+                "photo": "listing12Photo",
+                "type": "RESERVATION",
+                "title": "G'raj Mahal",
+                "price": 30,
+                "priceType": "per person",
+                "stars": 0,
+                "color": "blue"
+            },
+            {
+                "id": 13,
+                "photo": "listing13Photo",
+                "type": "RESERVATION",
+                "title": "Le Fond",
+                "price": 30,
+                "priceType": "per person",
+                "stars": 0,
+                "color": "black"
+            },
+            {
+                "id": 14,
+                "photo": "listing14Photo",
+                "type": "RESERVATION",
+                "title": "The Glass Onion",
+                "price": 34,
+                "priceType": "per person",
+                "stars": 0,
+                "color": "brown01"
+            },
+            {
+                "id": 15,
+                "photo": "listing15Photo",
+                "type": "RESERVATION",
+                "title": "The Waiting Room",
+                "price": 34,
+                "priceType": "per person",
+                "stars": 0,
+                "color": "green01"
+            },
+            {
+                "id": 16,
+                "photo": "listing16Photo",
+                "type": "RESERVATION",
+                "title": "Bar Boulud",
+                "price": 46,
+                "priceType": "per person",
+                "stars": 0,
+                "color": "gray04"
+            }
+        ]
+    }
+}
